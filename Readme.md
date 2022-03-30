@@ -30,7 +30,7 @@ It has 2 endpoints:
 
 Both endpoints will return an object with the name of the winner and an array of saved scores:
 
-```json
+```
 {
     winner: string,
 
